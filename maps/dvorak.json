@@ -1,0 +1,33 @@
+{
+    "IK_Q": "IK_SingleQuote",
+    "IK_W": "IK_Comma",
+    "IK_E": "IK_Period",
+    "IK_R": "IK_P",
+    "IK_T": "IK_Y",
+    "IK_Y": "IK_F",
+    "IK_U": "IK_G",
+    "IK_I": "IK_C",
+    "IK_O": "IK_R",
+    "IK_P": "IK_L",
+    "IK_A": "IK_A",
+    "IK_S": "IK_O",
+    "IK_D": "IK_E",
+    "IK_F": "IK_U",
+    "IK_G": "IK_I",
+    "IK_H": "IK_D",
+    "IK_J": "IK_H",
+    "IK_K": "IK_T",
+    "IK_L": "IK_N",
+    "IK_Semicolon": "IK_S",
+
+    "IK_Z": "IK_Semicolon",
+    "IK_X": "IK_Q",
+    "IK_C": "IK_J",
+    "IK_V": "IK_K",
+    "IK_B": "IK_X",
+    "IK_N": "IK_B",
+
+    "IK_Comma": "IK_W",
+    "IK_Period": "IK_V",
+    "IK_Slash": "IK_Z"
+}

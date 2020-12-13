@@ -1,0 +1,14 @@
+[package]
+name = "cp77-keys"
+version = "0.1.0"
+authors = ["Sam Wilson <tecywiz121@hotmail.com>"]
+edition = "2018"
+license = "AGPL-3.0-or-later"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+xml-rs = "0.8.3"
+structopt = "0.3.21"
+serde = "1.0.118"
+serde_json = "1.0.60"
